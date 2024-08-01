@@ -1,0 +1,9 @@
+Temp cpu
+Temp cv0
+Temp cv1
+Temp cv2
+Temp gpu
+Temp soc0
+Temp soc1
+Temp soc2
+Temp tj

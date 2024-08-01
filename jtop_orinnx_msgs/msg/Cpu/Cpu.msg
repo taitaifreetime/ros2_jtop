@@ -1,0 +1,10 @@
+bool online
+string governor
+CpuFrequency freq
+CpuFrequency info_freq
+IdleState idle_state
+string model
+float32 user
+float32 nice
+float32 system
+float32 idle
